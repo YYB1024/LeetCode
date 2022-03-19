@@ -16,6 +16,7 @@ public class HashMapSource {
         hashMap.put("java", 100);
         System.out.println("hashMap=" + hashMap);
         System.out.println("git!!哈哈");
+        System.out.println("git!！Hello");
     }
 
 }
