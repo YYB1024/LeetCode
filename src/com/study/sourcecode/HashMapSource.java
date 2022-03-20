@@ -19,6 +19,7 @@ public class HashMapSource {
         System.out.println("git!！Hello");
         System.out.println("git!！Hot-fix");
         System.out.println("Master test！！");
+        System.out.println("Hot-fix test!");
     }
 
 }
